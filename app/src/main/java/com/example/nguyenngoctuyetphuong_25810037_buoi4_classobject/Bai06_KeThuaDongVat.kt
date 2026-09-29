@@ -30,5 +30,3 @@ fun main() {
         println("${dongVat.ten}: ${dongVat.keu()}")
     }
 }
-
-==
